@@ -1,5 +1,5 @@
-- Hi! I’m Jose Miguel. I live in Argentina.I'm a front-end developer.
-- I’m interested in making useful webpages that don't look boring or outdated.
+- Hi! I’m Jose Miguel. I live in Argentina. I’m a front-end developer.
+- I’m interested in making useful webpages that don’t look boring or outdated.
 - Currently learning React.
 
 Any comments or suggestions are greatly appreciated!
