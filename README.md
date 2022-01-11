@@ -1,6 +1,8 @@
-- Hi, I’m @joseph01046 an Argentine amateur web developer.
-- I’m interested in front-end and make a useful page not look boring or outdated.
-- I’m currently learning UI/UX.
+- Hi! I’m Jose Miguel. I live in Argentina.I'm a front-end developer.
+- I’m interested in making useful webpages that don't look boring or outdated.
+- Currently learning React.
+
+Any comments or suggestions are greatly appreciated!
 
 <!---
 joseph01046/joseph01046 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
